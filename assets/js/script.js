@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Chandrakala Bhogavarapu";
+            document.title = "Portfolio | Mohan Bhogavarapu";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
