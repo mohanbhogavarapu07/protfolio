@@ -1,20 +1,14 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
    
     {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
    
-    
-   
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
    
     {
         "name": "HTML5",
@@ -25,40 +19,41 @@
         "icon": "https://img.icons8.com/color/48/000000/css3.png"
     },
     {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+   
+    {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
-    
-   
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/color/48/000000/express.png"
     },
-   
     {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+   
     
     {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
-   
-    {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },
-   
-   
+
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
@@ -66,9 +61,5 @@
     {
         "name": "Docker",
         "icon": "https://w1.pngwing.com/pngs/984/270/png-transparent-fish-docker-software-deployment-bluemix-docker-inc-microservices-github-computer-software-thumbnail.png"
-    },
-    {
-        "name": "Jenkins",
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsyFibM5nPR1u2-z5b6oDAswZkk31NutIbMg&s"
     }   
 ]
