@@ -37,6 +37,12 @@ $(document).ready(function () {
         }, 500, 'linear')
     });
 
+    // Close navbar on link click (for mobile)
+    $('.navbar ul li a').on('click', function () {
+        $('#menu').removeClass('fa-times');
+        $('.navbar').removeClass('nav-toggle');
+    });
+
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
         emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
